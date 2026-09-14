@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: payments-api
-  tag: dev
+  tag: metrics-v1
   pullPolicy: IfNotPresent
 
 service:
