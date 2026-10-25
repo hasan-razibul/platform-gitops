@@ -1,8 +1,8 @@
 replicaCount: 2
 
 image:
-  repository: payments-api
-  tag: metrics-v1
+  repository: ghcr.io/hasan-razibul/payments-api
+  tag: "6111f0b86d52c060cdd2653a45949a082b90964c"
   pullPolicy: IfNotPresent
 
 service:
